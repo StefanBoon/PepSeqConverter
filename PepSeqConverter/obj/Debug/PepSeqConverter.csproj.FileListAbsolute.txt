@@ -1,0 +1,16 @@
+C:\Users\stefa\source\repos\PepSeqConverter\PepSeqConverter\obj\Debug\PepSeqConverter.csproj.AssemblyReference.cache
+C:\Users\stefa\source\repos\PepSeqConverter\PepSeqConverter\obj\Debug\PepSeqConverter.csproj.SuggestedBindingRedirects.cache
+C:\Users\stefa\source\repos\PepSeqConverter\PepSeqConverter\obj\Debug\MainWindow.g.cs
+C:\Users\stefa\source\repos\PepSeqConverter\PepSeqConverter\obj\Debug\App.g.cs
+C:\Users\stefa\source\repos\PepSeqConverter\PepSeqConverter\obj\Debug\PepSeqConverter_MarkupCompile.cache
+C:\Users\stefa\source\repos\PepSeqConverter\PepSeqConverter\obj\Debug\PepSeqConverter_MarkupCompile.lref
+C:\Users\stefa\source\repos\PepSeqConverter\PepSeqConverter\bin\Debug\PepSeqConverter.exe.config
+C:\Users\stefa\source\repos\PepSeqConverter\PepSeqConverter\bin\Debug\PepSeqConverter.exe
+C:\Users\stefa\source\repos\PepSeqConverter\PepSeqConverter\bin\Debug\PepSeqConverter.pdb
+C:\Users\stefa\source\repos\PepSeqConverter\PepSeqConverter\obj\Debug\MainWindow.baml
+C:\Users\stefa\source\repos\PepSeqConverter\PepSeqConverter\obj\Debug\PepSeqConverter.g.resources
+C:\Users\stefa\source\repos\PepSeqConverter\PepSeqConverter\obj\Debug\PepSeqConverter.Properties.Resources.resources
+C:\Users\stefa\source\repos\PepSeqConverter\PepSeqConverter\obj\Debug\PepSeqConverter.csproj.GenerateResource.cache
+C:\Users\stefa\source\repos\PepSeqConverter\PepSeqConverter\obj\Debug\PepSeqConverter.csproj.CoreCompileInputs.cache
+C:\Users\stefa\source\repos\PepSeqConverter\PepSeqConverter\obj\Debug\PepSeqConverter.exe
+C:\Users\stefa\source\repos\PepSeqConverter\PepSeqConverter\obj\Debug\PepSeqConverter.pdb
